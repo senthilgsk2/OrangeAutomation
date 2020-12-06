@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-06T12:47:59 IST" name="Default suite" finished-at="2020-12-06T12:48:24 IST" duration-ms="24106">
+    <groups>
+    </groups>
+    <test started-at="2020-12-06T12:47:59 IST" name="Default test" finished-at="2020-12-06T12:48:24 IST" duration-ms="24106">
+      <class name="testcase.TC01_Login">
+        <test-method is-config="true" signature="LaunchBorswer()[pri:0, instance:testcase.TC01_Login@1fe20588]" started-at="2020-12-06T12:47:59 IST" name="LaunchBorswer" finished-at="2020-12-06T12:48:18 IST" duration-ms="18217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBorswer -->
+        <test-method signature="logintest()[pri:0, instance:testcase.TC01_Login@1fe20588]" started-at="2020-12-06T12:48:18 IST" name="logintest" finished-at="2020-12-06T12:48:24 IST" duration-ms="5831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- testcase.TC01_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
